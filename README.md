@@ -1,1 +1,2 @@
-# 2019 Advanced Statistical Computing Class Final Project
+# 2019 Advanced Statistical Computing 
+Class Final Project
